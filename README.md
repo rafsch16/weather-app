@@ -22,14 +22,19 @@ To install the flask app, you need:
 ## Installing
 
 For Bash use:
+'''
 $ export FLASK_APP=openweathermap
 $ flask run
+'''
 
 For CMD use:
+'''
 > set FLASK_APP=openweathermap
 > flask run
+'''
 
 For Powershell use:
+'''
 > $env:FLASK_APP = "openweathermap"
 > flask run
-
+'''
